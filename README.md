@@ -30,7 +30,8 @@ Conceptualizar el problema en la forma de un modelo, útil para clarificar los c
 Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
 Para su desarrollo debe evitarse en lo posible redactarfos párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
-![](
+![](https://github.com/bonacimba/InformeTarea-C-1-2/blob/main/951.PDF)
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas. La solución debe estar en esta sección, no como un archivo anexo.
