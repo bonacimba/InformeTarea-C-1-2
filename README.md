@@ -30,7 +30,7 @@ CUARTA BANDA: Oro
 
 [![resistencia-0-47.png](https://i.postimg.cc/GmxKpyFy/resistencia-0-47.png)](https://postimg.cc/dhDrHDSs)
 
-ESCALA DE RESISTENCIAS DE 4 BANDAS
+CÓDIGO DE COLORES PARA RESISTORES DE 4 BANDAS.
 
 [![tabla-de-resistencias.png](https://i.postimg.cc/MZtz1PzP/tabla-de-resistencias.png)](https://postimg.cc/qghfTGhy)
 
@@ -74,7 +74,7 @@ CUARTA BANDA: Oro
 
 27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
 
-ESCALA DE RESISTENCIAS DE 5 BANDAS
+CÓDIGO DE COLORES PARA RESISTORES DE 5 BANDAS.
 
 [![C-digo-de-colores-para-5-BANDAS.png](https://i.postimg.cc/LXtQjbfx/C-digo-de-colores-para-5-BANDAS.png)](https://postimg.cc/dk09Yn5C)
 
