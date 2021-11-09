@@ -20,7 +20,7 @@ Utilizar los conocimientos adquiridos en clase sobre cantidades, unidades, volta
 ## MARCO TEÓRICO (RESUMEN)
 
 
-CAP 1 - CANTIDADES Y UNIDADES
+**CAP 1 - CANTIDADES Y UNIDADES**
 
 
 
@@ -39,7 +39,7 @@ CAP 1 - CANTIDADES Y UNIDADES
 
 
 
-CAP 2
+**CAP 2-VOLTAJE, CORRIENTE Y RESISTENCIA**
 
 
 ![](https://github.com/bonacimba/InformeTarea-C-1-2/blob/main/Diagrama%20en%20blanco.png)
@@ -49,6 +49,10 @@ CAP 2
 
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+
+
+**CAP 1 - CANTIDADES Y UNIDADES**
 
 
 Notación científica
@@ -391,7 +395,7 @@ c) 0.02 μF + 3300 pF
 Respuesta: 0.0233 μF 
 
 
-**EJERCICIOS CAP 2**
+**EJERCICIOS CAP 2-VOLTAJE, CORRIENTE Y RESISTENCIA**
 
 
 **1 ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
