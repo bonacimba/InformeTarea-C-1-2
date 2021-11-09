@@ -1,13 +1,13 @@
 # InformeTarea-C-1-2
 
-OBJETIVOS
+## OBJETIVOS
 
-•	General
+•	**General**
 
 Utilizar los conocimientos adquiridos en clase sobre cantidades, unidades, voltaje, corriente y resistencia para la resolución de ejercicios relacionados a la materia.
 
 
-•	Específicos
+•	**Específicos**
 
 1.	Revisar el contenido relacionado en el libro guía.
 2.	Ordenar los conocimientos y definiciones para su fácil comprensión.
@@ -17,7 +17,8 @@ Utilizar los conocimientos adquiridos en clase sobre cantidades, unidades, volta
 
 
 
-MARCO TEÓRICO (RESUMEN)
+## MARCO TEÓRICO (RESUMEN)
+
 
 CAP 1 - CANTIDADES Y UNIDADES
 
@@ -38,7 +39,8 @@ CAP 1 - CANTIDADES Y UNIDADES
 
 
 
-CAP3
+CAP 2
+
 
 ![](https://github.com/bonacimba/InformeTarea-C-1-2/blob/main/Diagrama%20en%20blanco.png)
 
@@ -46,11 +48,13 @@ CAP3
 
 
 
-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 
 Notación científica
 
-1. Exprese cada uno de los números siguientes en notación científica:
+
+**1.  Exprese cada uno de los números siguientes en notación científica:**
 
 a) 3000
 
@@ -65,7 +69,8 @@ c) 2,000,000
 Respuesta: 2×〖10〗^6
 
 
-3. Exprese cada uno de los números siguientes en notación científica:
+
+**3. Exprese cada uno de los números siguientes en notación científica:**
 
 a) 8400
 
@@ -80,7 +85,8 @@ c) 0.2 ×〖10〗^6
 Respuesta:  2×〖10〗^5 
 
 
-5. Exprese cada uno de los números siguientes en notación científica:
+
+**5. Exprese cada uno de los números siguientes en notación científica:**
 
 a) 32×〖10〗^3
 
@@ -94,7 +100,7 @@ c) 870×〖10〗^8
 
 Respuesta: 8.7×〖10〗^10
 
-7. Exprese cada uno de los números siguientes como un número decimal regular:
+**7. Exprese cada uno de los números siguientes como un número decimal regular:**
 
 a) 2.5×〖10〗^(-6)
 
@@ -109,7 +115,8 @@ c) 3.9×〖10〗^(-1)
 Respuesta: 0.39	
 
 
-9. Sume los números siguientes:
+**9. Sume los números siguientes:**
+
 
 a) (9.2×〖10〗^6 )+(3.4×〖10〗^7)
 
@@ -137,7 +144,7 @@ c) (5.6×〖10〗^(-8) )+(4.6×〖10〗^(-9))
 Respuesta: 6.06×〖10〗^(-8)
 
 
-11. Realice las siguientes multiplicaciones:
+**11. Realice las siguientes multiplicaciones:**
 
 
 a) (5×〖10〗^3 )(4×〖10〗^5)
@@ -148,6 +155,7 @@ a) (5×〖10〗^3 )(4×〖10〗^5)
 
 Respuesta: 20×〖10〗^8
 
+
 b) (1.2×〖10〗^12 )(3×〖10〗^2)
 
 (1.2×3)(〖10〗^(12+2))
@@ -155,6 +163,7 @@ b) (1.2×〖10〗^12 )(3×〖10〗^2)
 (3.6)(〖10〗^14 ) 
 
 Respuesta: 3.6×〖10〗^14
+
 
 c) (2.2×〖10〗^(-9) )(7×〖10〗^(-6))
 
@@ -167,7 +176,7 @@ Respuesta: 15.4×〖10〗^(-15)
 
 Notación de ingeniería y prefijos métricos
 
-13. Exprese cada uno de los números siguientes en notación de ingeniería:
+**13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 
 
 a) 89,000
@@ -182,21 +191,24 @@ c) 12,040,000,000,000
 
 Respuesta: 12.04×〖10〗^12
 
-15. Exprese cada número en notación de ingeniería:
+**15. Exprese cada número en notación de ingeniería:**
 
 a) 0.000345
 
 Respuesta: 345×〖10〗^(-6)
 
+
 b) 0.025
 
 Respuesta: 25×〖10〗^(-3)
+
 
 c) 0.000000000129
 
 Respuesta: 1.29×〖10〗^(-9)
 
-17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
+
+**17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
 
 
 a) (2.5×〖10〗^(-3) )+(4.6×〖10〗^(-3))
@@ -205,11 +217,14 @@ a) (2.5×〖10〗^(-3) )+(4.6×〖10〗^(-3))
 
 Respuesta: 7.1×〖10〗^(-3)
 
+
 b) (68×〖10〗^6 )+(33×〖10〗^6)
 
 (68)+(33)=101 
 
 Respuesta: 101×〖10〗^6
+
+
 
 c) (1.25×〖10〗^6 )+(250×〖10〗^3)
 
@@ -220,7 +235,7 @@ c) (1.25×〖10〗^6 )+(250×〖10〗^3)
 Respuesta: 1.5×〖10〗^6
 
 
-19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
+**19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
 
 a) 50÷(2.2×〖10〗^3)
@@ -231,6 +246,7 @@ a) 50÷(2.2×〖10〗^3)
 
 Respuesta: 22.7×〖10〗^(-3)
 
+
 b) (5×〖10〗^3 )÷(25×〖10〗^(-6))
 
 (5÷25)(〖10〗^(3-(-6)))
@@ -238,6 +254,7 @@ b) (5×〖10〗^3 )÷(25×〖10〗^(-6))
 (0.2)(〖10〗^9 ) 
 
 Respuesta: 0.2×〖10〗^9
+
 
 c) (560×〖10〗^3 )÷(660×〖10〗^3)
 
@@ -247,7 +264,8 @@ c) (560×〖10〗^3 )÷(660×〖10〗^3)
 
 Respuesta: 848×〖10〗^(-3)
 
-21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
+
+**21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
 
 a) 345×〖10〗^(-6)
@@ -270,7 +288,7 @@ c) 1.29×〖10〗^(-9)
 
 Respuesta: 1.29 nA
 
-23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+**23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
 
 a) 3×〖10〗^(-6)  F
@@ -291,7 +309,7 @@ c) 350×〖10〗^(-9)  A
 
 Respuesta: 350 nA
 
-25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
+**25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
 
 
 a) 7.5 pA
@@ -300,11 +318,13 @@ a) 7.5 pA
 
 Respuesta: 7.5 ×〖10〗^(-12)  A
 
+
 b) 3.3 GHz
 
 〖10〗^9=giga (G) 
 
 Respuesta: 3.3×〖10〗^9  Hz
+
 
 c) 280 nW
 
@@ -313,7 +333,7 @@ c) 280 nW
 Respuesta: 280×〖10〗^(-9)  W
 
 
-27. Realice las conversiones indicadas:
+**27. Realice las conversiones indicadas:**
 
 
 a) 5 mA a microamperios
@@ -335,7 +355,7 @@ d) 10 MW a kilowatts
 10 MW=10 ×〖10〗^6  W=10000×〖10〗^3 W=10000 kW 
 
 
-29. Sume las siguientes cantidades:
+**29. Sume las siguientes cantidades:**
 
 
 a) 50 mA + 680 μA
@@ -371,9 +391,10 @@ c) 0.02 μF + 3300 pF
 Respuesta: 0.0233 μF 
 
 
+**EJERCICIOS CAP 2**
 
 
-1 ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+**1 ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
 
 La fórmula de carga en coulombs es:
 
@@ -390,7 +411,7 @@ Procedemos a reemplazar en la formula de carga de coulombs
 	Q = 4.64*10^ (-18) C
  
  
-3 ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?
+**3 ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?**
 
 Usamos la formula de carga en coulombs para electrones:
 
@@ -404,7 +425,7 @@ Realizamos regla de tres y realizamos el respectivo reemplazo con el numero de e
  
 	Q = 8*10^13 C
  
-5 determine el voltaje en cada uno de los siguientes casos:
+**5 determine el voltaje en cada uno de los siguientes casos:**
 
 a)	10J/C
 
@@ -424,15 +445,20 @@ a)	V = 10J/1C
 
 V = 10 V
 
+
+
 b)	V = 5J/2C
 
 V = 2.5 V
+
+
 
 c)	V = 100J/25C 
 
 V = 4 V
 
-7  ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+
+**7  ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?**
 
 Sacamos la fórmula de Voltaje
 
@@ -452,8 +478,8 @@ Aplicamos los datos en la fórmula de Voltios
  
 	V = 20 V
  
-9 Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
-Presentamos los datos que nos ofrece el ejercicio y analizamos:
+**9 Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+Presentamos los datos que nos ofrece el ejercicio y analizamos:**
 
 I = 2 A
 
@@ -495,7 +521,7 @@ Finalmente conociendo la Carga Q, realizamos los respectivos despejes en la fór
   
 	V = 33.33 V
  
-11 Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+**11 Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?**
 
 Presentamos los datos disponibles:
 
@@ -520,7 +546,7 @@ Ya tenemos todos los datos con respecto a la fórmula de I; procedemos a reempla
 	I = 200 mA
  
  
-13 ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+**13 ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?**
 
 Presentamos los datos disponibles:
 
@@ -546,7 +572,7 @@ Realizamos un despeje respectivo en I y reemplazamos los datos:
  
 	Q = 150 mC
  
-15 Determine la conductancia para cada uno de los siguientes valores de resistencia:
+**15 Determine la conductancia para cada uno de los siguientes valores de resistencia:**
 
 a)	5 Ω
 
@@ -569,11 +595,15 @@ G = 0.2 S
 
 G = 200mS
 
+
+
 b)	G = 1/25Ω
 
 G = 0.04S
 
 G = 40mS
+
+
 
 c)	G = 1/100Ω
 
@@ -582,7 +612,7 @@ G = 0.01S
 G = 10mS
 
 
-17 enliste cuatro fuentes de voltaje comunes
+**17 enliste cuatro fuentes de voltaje comunes**
 
 Baterias
 
@@ -593,9 +623,11 @@ Termopares
 Celdas Solares
 
 
-19 ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+**19 ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?**
 
-21 determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+
+
+**21 determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas**
 
 a)	Rojo, Violeta, Naranja, Oro 
 
@@ -637,7 +669,7 @@ R: 18*(1*10^2) ± 10%
 
 R: 1.8KΩ ± 10%
 
-23 determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 300 Ω, 2.2 kΩ, 56 kΩ, 100kΩ y 39kΩ
+**23 determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 300 Ω, 2.2 kΩ, 56 kΩ, 100kΩ y 39kΩ**
 
 Si sabemos el sistema de numeración por barras de colores y la cantidad máxima de barras, podemos deducir los colores y múltiplos faltantes, equivalentes a 3 primeras de las 4 rayas.
 
@@ -729,7 +761,7 @@ R: Naranja, Negro, Naranja, Oro
 [![R-23e.jpg](https://i.postimg.cc/Xq24PsZ4/R-23e.jpg)](https://postimg.cc/SYzB277v)
 
 
-25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+**25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.**
 
 A)	0.47Ω
 
@@ -789,7 +821,7 @@ CUARTA BANDA: Oro
 
 
 
-27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+**27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.**
 
 CÓDIGO DE COLORES PARA RESISTORES DE 5 BANDAS.
 
@@ -852,20 +884,22 @@ QUINTA BANDA:  Café
 [![9-76-K-RESISTENCIA.png](https://i.postimg.cc/NjPRPkBB/9-76-K-RESISTENCIA.png)](https://postimg.cc/tsW1sPsM)
 
 
-29. ¿Cuál es la resistencia indicada por 4K7?
+**29. ¿Cuál es la resistencia indicada por 4K7?**
 
 La K indica un multiplicador de 1000
 
 La resistencia es 4,7 K Ω =4700 Ω
 
 
-31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
+**31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
 
 Cuando el interruptor está en la posición 2 la corriente pasa por la lampara 2.
 
 [![31.png](https://i.postimg.cc/x8WWRz8R/31.png)](https://postimg.cc/Zvx7Y0rB)
 
-33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito
+
+
+**33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito**
 
 EL circuito donde podemos encender todas las lámparas al mismo tiempo es la b.
 
@@ -880,7 +914,8 @@ En este caso no me imagine otro arreglo mejor que el que se encuentra en las sol
 
 [![35.png](https://i.postimg.cc/VkYcHX4G/35.png)](https://postimg.cc/VdHTJrxn)
 
-37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72
+
+**37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72**
 
 Para medir la corriente tenemos que abrir el circuito y colocar el amperímetro en serie.
 
@@ -888,7 +923,8 @@ En cambio, para medir el voltaje colocamos el voltímetro en paralelo al circuit
 
 [![37.png](https://i.postimg.cc/gJ3SWT2v/37.png)](https://postimg.cc/DJydQ5sZ)
 
-39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
+
+**39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?**
 
 En la posición 1 podemos observar que el voltaje en V1 =0 por que el interruptor no pasa por ahí, pero el voltaje en V2 = Vs por que pasa por ahí el interruptor, en un caso ideal
 
@@ -896,18 +932,22 @@ En cambio, en la posición 2 el V1=Vs porque el interruptor deja el paso al volt
 
 [![39-figura-2-73.png](https://i.postimg.cc/C5BK5k9H/39-figura-2-73.png)](https://postimg.cc/1VSSYnmf)
 
-41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
+
+
+**41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.**
 
 Para medir la corriente tenemos que abrir el circuito y colocar el amperímetro en serie, siempre tomado las medidas de seguridad respectiva para que no suceda ningún inconveniente
 
 [![41.png](https://i.postimg.cc/qvXvNkDY/41.png)](https://postimg.cc/21yDJfDF)
 
 
-43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+**43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
 
 Como podemos observar en el multímetro analógico su voltaje es de 250v
 
-45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
+
+
+**45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:**
 
 Los ohms se leen en la escala superior del medidor. Para leer el valor real en ohms, multiplique el número señalado en la escala por la manecilla por el factor seleccionado con el interruptor.
 
@@ -920,8 +960,8 @@ Los ohms se leen en la escala superior del medidor. Para leer el valor real en o
 (c)	manecilla en 45, ajuste de intervalo en *100
 45*100=4500 Ω
 
-47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
-cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
+**47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
+cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.**
 
 (a)	I1 (b) V1 (c) R1
 
@@ -942,11 +982,11 @@ c) Para medir la resistencia tenemos que sacar la resistencia o desconectar la f
 
 
 
-VIDEO
+## VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se expliquen el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
-CONCLUSIONES
+## CONCLUSIONES
 
 •	En conclusión, leer detenidamente de los capítulos de los temas tratados en clase se logró adquirir una mejor comprensión de los conceptos básicos para la materia de circuitos eléctricos.
 
@@ -957,7 +997,7 @@ CONCLUSIONES
 •	Crear un video explicando los ejercicios realizados ayudó complementar los conocimientos sobre los temas tratados en clase.
 
 
-BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 
 Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
@@ -967,5 +1007,5 @@ Notación Científica. (s. f.). Matesfácil. Recuperado 8 de noviembre de 2021, 
 Notación científica. Notación de ingeniería. (2020, 30 julio). Electrónica Unicrom. Recuperado 8 de noviembre de 2021, de https://unicrom.com/notacion-cientifica-notacion-ingenieria/
 
 
-RUBRICA
+
 
