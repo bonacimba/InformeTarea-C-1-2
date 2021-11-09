@@ -988,7 +988,7 @@ c) Para medir la resistencia tenemos que sacar la resistencia o desconectar la f
 
 ## VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se expliquen el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
+https://youtu.be/RI4Vr-Y3qbs
 
 ## CONCLUSIONES
 
