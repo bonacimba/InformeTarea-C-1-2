@@ -44,6 +44,9 @@ Utilizar los conocimientos adquiridos en clase sobre cantidades, unidades, volta
 
 [![0b48ec86-4e21-429a-9a99-716df4d008b5.jpg](https://i.postimg.cc/SNL91ZM0/0b48ec86-4e21-429a-9a99-716df4d008b5.jpg)](https://postimg.cc/N5ML5kDb)
 
+[![320058ee-1622-43c4-90f5-accae2337281.jpg](https://i.postimg.cc/3RHTT0jq/320058ee-1622-43c4-90f5-accae2337281.jpg)](https://postimg.cc/jWv965F6)
+
+
 
 ![](https://github.com/bonacimba/InformeTarea-C-1-2/blob/main/Diagrama%20en%20blanco.png)
 
@@ -632,6 +635,11 @@ Celdas Solares
 
 **19 ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?**
 
+Una fuente electrónica de potencia tiene la propiedad de interferir en escala de corriente alterna CA de un tomacorriente con el fin de transformarla en energía de corriente continua cd y aunque dependiendo del tipo fuente de voltaje también posee a lo sumo trabajar con cualquiera de las ramas de corriente, una fuente electrónica de potencia, aunque considerada tradicionalmente una fuente de voltaje, en realidad también llegan a clasificar a las fuentes corrientes como fuentes de potencia electrónica. 
+
+El principio de las fuentes electrónicas de potencia recae en la medida de la escala de la característica curva IV la cual expresa el punto de constancia de la corriente de un transistor en un intervalo de voltaje. 
+
+El flujo finalmente constante de la escala, permite la interacción de nodos de distintas fuentes de voltaje con el cual al darle un tratamiento en seria se le da una consideración al aumento de voltaje, mientras que al formar un nodo en paralelo el incremento se da por parte de la corriente. Estos cambios son tomados por un rectificador que ayuda a ala convergencia de CA y CD, cuya neutralidad logra mantenerse constante permitiendo este cambio, gracias a la corriente constante que solo esta fuente ofrece.
 
 
 **21 determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas**
