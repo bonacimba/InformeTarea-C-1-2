@@ -992,7 +992,7 @@ Aqui den estar el link de youtube de los videos en los que se expliquen el funci
 
 ## CONCLUSIONES
 
-•	En conclusión, leer detenidamente de los capítulos de los temas tratados en clase se logró adquirir una mejor comprensión de los conceptos básicos para la materia de circuitos eléctricos.
+•	En conclusión, leer detenidamente  los capítulos de los temas tratados en clase se logró adquirir una mejor comprensión de los conceptos básicos para la materia de circuitos eléctricos.
 
 •	Crear mapas conceptuales con la información más importante permitió ordenar claramente las ideas que posteriormente serán más fáciles de recordar y aplicar.
 
