@@ -42,6 +42,9 @@ Utilizar los conocimientos adquiridos en clase sobre cantidades, unidades, volta
 **CAP 2-VOLTAJE, CORRIENTE Y RESISTENCIA**
 
 
+[![0b48ec86-4e21-429a-9a99-716df4d008b5.jpg](https://i.postimg.cc/SNL91ZM0/0b48ec86-4e21-429a-9a99-716df4d008b5.jpg)](https://postimg.cc/N5ML5kDb)
+
+
 ![](https://github.com/bonacimba/InformeTarea-C-1-2/blob/main/Diagrama%20en%20blanco.png)
 
 
@@ -909,10 +912,10 @@ EL circuito donde podemos encender todas las lámparas al mismo tiempo es la b.
 
 [![33.png](https://i.postimg.cc/gcCz4wfQ/33.png)](https://postimg.cc/hh0RtG41)
 
-35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y
+**35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y
 VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
 VS1 conectada a R1 y VS2 conectada a R2
-o VS1 conectada a R2 y VS2 conectada a R1
+o VS1 conectada a R2 y VS2 conectada a R1**
 
 En este caso no me imagine otro arreglo mejor que el que se encuentra en las soluciones de este libro por lo cual he tomado y replicado este arreglo
 
