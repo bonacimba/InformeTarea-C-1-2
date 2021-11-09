@@ -42,6 +42,10 @@ CAP3
 
 ![](https://github.com/bonacimba/InformeTarea-C-1-2/blob/main/Diagrama%20en%20blanco.png)
 
+
+
+
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Notación científica
@@ -368,6 +372,361 @@ Respuesta: 0.0233 μF
 
 
 
+
+1 ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+
+La fórmula de carga en coulombs es:
+
+	Q = (número de electrones) / (6.25*10^18 electrones/C)
+ 
+La carga del núcleo de átomo de cobre, es referido a la carga en coulombs de la energía de los protones del átomo que es igual al número de electrones.
+
+El numero de electrones del cobre o número atómico es 29
+
+Procedemos a reemplazar en la formula de carga de coulombs 
+
+	Q = (29 electrones) / (6.25*10^18 electrones/C)
+ 
+	Q = 4.64*10^ (-18) C
+ 
+ 
+3 ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?
+
+Usamos la formula de carga en coulombs para electrones:
+
+	Q = (número de electrones) / (6.25*10^18 electrones/C)
+ 
+Se sabe que la carga de 1 coulomb C, posee 6.25*10^18 electrones/C.
+
+Realizamos regla de tres y realizamos el respectivo reemplazo con el numero de electrones que nos da el ejercicio.
+
+	(50 * 10^31 electrones) * [(1 C) / (6.25*10^18 electrones)]
+ 
+	Q = 8*10^13 C
+ 
+5 determine el voltaje en cada uno de los siguientes casos:
+
+a)	10J/C
+
+b)	5J/2C
+
+c)	100J/25C
+
+Aplicamos la fórmula de Voltaje o Diferencia de Potencial
+
+	V = W/Q
+ 
+Como sabemos un voltio se expresa como la diferencia de potencial entre dos puntos donde una fuerza W en Joules J se aplica sobre una carga Coulomb C la cual promete un movimiento en dicha carga.
+
+Los valores de Joules y Carga ya están sobrepuestos en el orden correspondiente a la formula de Voltios entonces solo quedaría resolver la fracción 
+
+a)	V = 10J/1C 
+
+V = 10 V
+
+b)	V = 5J/2C
+
+V = 2.5 V
+
+c)	V = 100J/25C 
+
+V = 4 V
+
+7  ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+
+Sacamos la fórmula de Voltaje
+
+	V = W/Q
+ 
+A pesar de que se pide el voltaje del resistor, no hace referencia a querer aplicar una restricción al paso de la corriente, sino que ya son los datos fijos del propio del propio resistor.
+
+Los datos que tenemos son:
+
+W = 800J
+
+Q = 40C
+
+Aplicamos los datos en la fórmula de Voltios
+
+	V = 800J/40C
+ 
+	V = 20 V
+ 
+9 Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+Presentamos los datos que nos ofrece el ejercicio y analizamos:
+
+I = 2 A
+
+W = 1000J
+
+t = 15s
+
+
+Tomamos en cuenta que el resistor solo es el conductor de donde provienen los datos del circuito, así omitimos el proceso de restricción de corriente.
+
+El tema del ejercicio es conseguir el voltaje del resistor, así que presentamos la fórmula de Voltios
+
+	V = W/Q
+ 
+De la formula de Voltios, el ejercicio ya nos proporciona la energía W en Joules J que se aplica a las cargas del circuito. No obstante, desconocemos el valor de las cargas para poder conseguir los voltios aplicables dentro de la resistencia.
+
+Sin embargo, también tenemos la Intensidad de Corriente Eléctrica I en amperios A, aplicada en la resistencia por la energía de los Joules.
+
+Si bien sabemos que la Intensidad de Corriente Eléctrica I consta como la velocidad por la circulan las Cargas Q dentro de un circuito sobre un tiempo t estimado y ya se tiene un tiempo por el cual se presentan los datos. 
+
+
+Tomando en cuenta este razonamiento podemos conseguir el Voltaje de la resistencia que nos pide el circuito, aplicando primero la formula de la Intensidad de Corriente Eléctrica I con el cual podemos conseguir la Carga Q para completar la formula del Voltaje V.
+
+Presentamos la formula Intensidad de Corriente Eléctrica I:
+
+	I = Q/t
+ 
+Realizamos un despeje respectivo en I y reemplazamos los datos:
+
+	2A = Q/15s
+ 
+	Q = 2A * 15s
+ 
+	Q = 30C  
+ 
+Finalmente conociendo la Carga Q, realizamos los respectivos despejes en la fórmula de Voltios V:
+
+ 	V = 1000J/30C 
+  
+	V = 33.33 V
+ 
+11 Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+
+Presentamos los datos disponibles:
+
+Q = 6/10 C 
+
+t = 3s
+
+El objetivo del problema es sacar la corriente del circuito en amperes, entonces mostramos la fórmula de Intensidad de Corriente Eléctrica:
+
+	I = Q/t
+ 
+Ya tenemos todos los datos con respecto a la fórmula de I; procedemos a reemplazar los datos:
+
+	I = (6/10)J/3s
+ 
+	I = (3/5)J/3s
+ 
+	I = 1/5 C
+ 
+	I = 0.2 A
+ 
+	I = 200 mA
+ 
+ 
+13 ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+
+Presentamos los datos disponibles:
+
+t = 0.1s
+
+I = 1.5 A
+
+Se necesita conseguir en coulombs, las cargas correspondientes dentro del circuito. 
+
+Teniendo en cuenta la Intensidad de Corriente Eléctrica I, podemos sacar el valor de las cargas aplicando la fórmula de I.
+
+Presentamos la formula Intensidad de Corriente Eléctrica I:
+
+	I = Q/t
+ 
+Realizamos un despeje respectivo en I y reemplazamos los datos:
+
+	1.5 A = Q/0.1s
+ 
+	Q = 1.5 A * 0.1s
+ 
+	Q = 0.15C
+ 
+	Q = 150 mC
+ 
+15 Determine la conductancia para cada uno de los siguientes valores de resistencia:
+
+a)	5 Ω
+
+b)	25 Ω
+
+c)	100 Ω
+
+
+La Conductancia es opuesta a la Oposición o Resistencia, cuya denotación G es medida en siemens S y nos permite ver cuanta es facilidad que tiene una corriente eléctrica frente a la oposición.
+
+Presentamos la fórmula de Conductancia G:
+
+	  G = 1/R
+   
+Realizamos los respectivos reemplazos en G con los datos presentados en cada uno de los literales:
+
+a)	G = 1/5Ω
+
+G = 0.2 S
+
+G = 200mS
+
+b)	G = 1/25Ω
+
+G = 0.04S
+
+G = 40mS
+
+c)	G = 1/100Ω
+
+G = 0.01S
+
+G = 10mS
+
+
+17 enliste cuatro fuentes de voltaje comunes
+
+Baterias
+
+Generador
+
+Termopares
+
+Celdas Solares
+
+
+19 ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+
+21 determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+
+a)	Rojo, Violeta, Naranja, Oro 
+
+[![R-21a.jpg](https://i.postimg.cc/bJWRRhgh/R-21a.jpg)](https://postimg.cc/7G17xjjs)
+
+b)	Café, Gris Rojo, Plata
+
+[![R-21b.jpg](https://i.postimg.cc/dVsGr3FC/R-21b.jpg)](https://postimg.cc/WhyDP2hp)
+
+
+El proceso de clasificación de medida de la resistencia esta denotado por los patrones de colores impreso en cada resistencia cuyo numero patrones varia de entre 4 hasta 6 barras de colores.
+
+En este caso tenemos resistencias de 4 barras de colores.
+
+Los dos primeros colores de las barras se irán añadiendo empezando de izquierda a derecha formando un entero de dos dígitos, el valor del tercer color se multiplicará al valor de dos dígitos obtenido previamente cuyo múltiplo es de 1*10^n donde n corresponderá a los valores de n=0, 1, 2, …, 7 los cuales también son capaces de tomar los dos primeros colores. Finalmente, el cuarto color expresa la tolerancia de la resistencia por lo que suelen ser los colores brillantes los que denoten su respectiva numeración. 
+
+a)	Rojo: 2
+
+Violeta: 7 
+
+Naranja: 3
+
+Oro: ± 5%
+
+R: 27*(1*10^3) ± 5%
+
+R: 27KΩ ± 5%
+
+
+b)	Café: 1
+
+Gris: 8
+
+Rojo: 2
+
+Plata: ± 10%
+
+R: 18*(1*10^2) ± 10%
+
+R: 1.8KΩ ± 10%
+
+23 determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 300 Ω, 2.2 kΩ, 56 kΩ, 100kΩ y 39kΩ
+
+Si sabemos el sistema de numeración por barras de colores y la cantidad máxima de barras, podemos deducir los colores y múltiplos faltantes, equivalentes a 3 primeras de las 4 rayas.
+
+	± 5%: Oro
+
+a)	300 Ω
+
+3: Naranja
+
+0: Negro
+
+30*(1*10^n) = 300 Ω
+
+Cuando n = 1 la igualdad se confirma
+
+1: Café
+
+R: Naranja, Negro, Café, Oro
+
+[![R-23a.jpg](https://i.postimg.cc/wjM79mHw/R-23a.jpg)](https://postimg.cc/xXr0RqXm)
+
+
+b)	2.2 kΩ
+
+2: Rojo
+
+2: Rojo
+
+22*(1*10^n) = 2.2*(10^3) Ω
+
+Cuando n = 2 la igualdad se confirma
+
+1: Rojo
+
+R: Rojo, Rojo, Rojo, Oro
+
+[![R-23b.jpg](https://i.postimg.cc/ZnJ529VF/R-23b.jpg)](https://postimg.cc/k6hCt5rB)
+
+
+c)	56 kΩ 
+
+5: Verde
+
+6: Azul
+
+56*(1*10^3) = 56kΩ
+
+Cuando n = 3 la igualdad se confirma
+
+3: Naranja
+
+R: Verde, Azul, Naranja, Oro
+
+[![R-23c.jpg](https://i.postimg.cc/tCCgzx19/R-23c.jpg)](https://postimg.cc/6TgwWTLP)
+
+
+d)	100kΩ
+
+1: Café
+
+0: Negro
+
+10*(1*10^4) = 100kΩ
+
+Cuando n = 4 la igualdad se confirma
+
+4: Amarillo
+
+R: Café, Negro, Amarillo, Oro
+
+[![R-23d.jpg](https://i.postimg.cc/htNPgZ2G/R-23d.jpg)](https://postimg.cc/5XqMSgdc)
+
+
+e)	39kΩ
+
+3: Naranja
+
+0: Negro
+
+39*(1*10^3) = 39kΩ
+
+Cuando n = 3 la igualdad se confirma
+
+3: Naranja
+
+R: Naranja, Negro, Naranja, Oro
+
+
+[![R-23e.jpg](https://i.postimg.cc/Xq24PsZ4/R-23e.jpg)](https://postimg.cc/SYzB277v)
 
 
 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
