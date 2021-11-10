@@ -61,300 +61,342 @@ Utilizar los conocimientos adquiridos en clase sobre cantidades, unidades, volta
 **CAP 1 - CANTIDADES Y UNIDADES**
 
 
-Notación científica
+**Notación científica**
 
 
 **1.  Exprese cada uno de los números siguientes en notación científica:**
 
 a) 3000
 
-Respuesta:  3×〖10〗^3 
+Respuesta:  3×10^3
+
+Explicación: Recorremos 3 espacios a la izquierda y ponemos a la potencia de 10 con exponente 3 
 
 b) 75,000
 
-Respuesta: 75×〖10〗^3
+Respuesta: 75×10^3
+
+Explicación: Recorremos 3 espacios a la izquierda y ponemos a la potencia de 10 con exponente 3 
 
 c) 2,000,000	
 
-Respuesta: 2×〖10〗^6
+Respuesta: 2×10^6
 
-
+Explicación: Recorremos 6 espacios a la izquierda y ponemos a la potencia de 10 con exponente 6 
 
 **3. Exprese cada uno de los números siguientes en notación científica:**
 
 a) 8400
 
-Respuesta:  8.4×〖10〗^3 
+Respuesta:  8.4×10^3
+
+Explicación: Recorremos 3 espacios a la izquierda y ponemos a la potencia de 10 con exponente 3 
 
 b) 99,000 
 
-Respuesta:  9.9×〖10〗^4 
+Respuesta:  9.9×10^4 
 
-c) 0.2 ×〖10〗^6
+Explicación: Recorremos 4 espacios a la izquierda y ponemos a la potencia de 10 con exponente 4
 
-Respuesta:  2×〖10〗^5 
+c) 0.2 ×10^6
 
+Respuesta:  2×10^5 
 
+Explicación: Recorremos 1 espacio a la derecha y ponemos a la potencia de 10 con exponente 5
 
 **5. Exprese cada uno de los números siguientes en notación científica:**
 
-a) 32×〖10〗^3
+a) 32×10^3
 
-Respuesta: 0.32×〖10〗^5	
+Respuesta: 0.32×10^5	
 
-b) 6800×〖10〗^(-6)
+Explicación: Recorremos 2 espacios a la izquierda y ponemos a la potencia de 10 con exponente 5
 
-Respuesta: 6.8×〖10〗^(-3)
+b) 6800×10^(-6)
 
-c) 870×〖10〗^8
+Respuesta: 6.8×10^(-3)
 
-Respuesta: 8.7×〖10〗^10
+Explicación: Recorremos 3 espacios a la izquierda y ponemos a la potencia de 10 con exponente -3
+
+c) 870×10^8
+
+Respuesta: 8.7×10^10
+
+Explicación: Recorremos 2 espacios a la izquierda y ponemos a la potencia de 10 con exponente 10
 
 **7. Exprese cada uno de los números siguientes como un número decimal regular:**
 
-a) 2.5×〖10〗^(-6)
+a) 2.5×10^(-6)
 
 Respuesta: 0.0000025	
 
-b) 5.0×〖10〗^2
+Explicación: 10^(-6) significa recorrer 6 espacios a la izquierda
+
+b) 5.0×10^2
 
 Respuesta: 500	
 
-c) 3.9×〖10〗^(-1)
+Explicación: 10^2 significa recorrer 2 espacios a la derecha
+
+c) 3.9×10^(-1)
 
 Respuesta: 0.39	
 
+Explicación: 10^(-1) significa recorrer 1 espacios a la izquierda
 
 **9. Sume los números siguientes:**
 
+a) (9.2×10^6 )+(3.4×10^7)
 
-a) (9.2×〖10〗^6 )+(3.4×〖10〗^7)
-
-(9.2×〖10〗^6 )+(34×〖10〗^6)
+(9.2×10^6)+(34×10^6)
 
 (9.2)+(34)=43.2 
 
-Respuesta: 43.2×〖10〗^6
+Respuesta: 43.2×10^6
 
+Explicación: Para sumar estos números es necesario reducir las potencias de 10 a un mismo exponente y solo sumar los números normales y mantener la misma potencia
 
-b) (5×〖10〗^3 )+(8.5×〖10〗^(-1))
+b) (5×10^3)+(8.5×10^(-1))
 
-(5×〖10〗^3 )+(0.00085×〖10〗^3)
+(5×10^3)+(0.00085×10^3)
 
 (5)+(0.00085)=5.00085 
 
-Respuesta: 5.00085×〖10〗^3
+Respuesta: 5.00085×10^3
 
-c) (5.6×〖10〗^(-8) )+(4.6×〖10〗^(-9))
+Explicación: Para sumar estos números es necesario reducir las potencias de 10 a un mismo exponente y solo sumar los números normales y mantener la misma potencia
 
-(5.6×〖10〗^(-8) )+(0.46×〖10〗^(-8))
+c) (5.6×10^(-8))+(4.6×10^(-9))
+
+(5.6×10^(-8))+(0.46×10^(-8))
 
 (5.6)+(0.46)=6.06 
 
 Respuesta: 6.06×〖10〗^(-8)
 
+Explicación: Para sumar estos números es necesario reducir las potencias de 10 a un mismo exponente y solo sumar los números normales y mantener la misma potencia
 
 **11. Realice las siguientes multiplicaciones:**
 
+a) (5×10^3)(4×10^5)
 
-a) (5×〖10〗^3 )(4×〖10〗^5)
+(5×4)(10^(3+5))
 
-(5×4)(〖10〗^(3+5))
+(20)(10^8 ) 
 
-(20)(〖10〗^8 ) 
+Respuesta: 20×10^8
 
-Respuesta: 20×〖10〗^8
+Explicación: Para multiplicar estos números se multiplican los números normales y se suman los exponentes de las potencias de 10
 
+b) (1.2×10^12)(3×10^2)
 
-b) (1.2×〖10〗^12 )(3×〖10〗^2)
+(1.2×3)(10^(12+2))
 
-(1.2×3)(〖10〗^(12+2))
+(3.6)(10^14 ) 
 
-(3.6)(〖10〗^14 ) 
+Respuesta: 3.6×10^14
 
-Respuesta: 3.6×〖10〗^14
+Explicación: Para multiplicar estos números se multiplican los números normales y se suman los exponentes de las potencias de 10
 
+c) (2.2×10^(-9))(7×10^(-6))
 
-c) (2.2×〖10〗^(-9) )(7×〖10〗^(-6))
+(2.2×7)(10^(-9+(-6)))
 
-(2.2×7)(〖10〗^(-9+(-6)))
+(15.4)(10^(-15) ) 
 
-(15.4)(〖10〗^(-15) ) 
+Respuesta: 15.4×10^(-15)
 
-Respuesta: 15.4×〖10〗^(-15)
+Explicación: Para multiplicar estos números se multiplican los números normales y se suman los exponentes de las potencias de 10
 
-
-Notación de ingeniería y prefijos métricos
+**Notación de ingeniería y prefijos métricos**
 
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-
 a) 89,000
 
-Respuesta: 89×〖10〗^3
+Respuesta: 89×10^3
+
+Explicación: Unicamente utilizamos potencias con exponente multiplos de 3, por ello solo se recorre 3 espacios a la izquierda y se escribe la potencia de 10 con exponente 3
 
 b) 450,000
 
-Respuesta: 450×〖10〗^3
+Respuesta: 450×10^3
+
+Explicación: Unicamente utilizamos potencias con exponente multiplos de 3, por ello solo se recorre 3 espacios a la izquierda y se escribe la potencia de 10 con exponente 3
 
 c) 12,040,000,000,000
 
-Respuesta: 12.04×〖10〗^12
+Respuesta: 12.04×10^12
+
+Explicación: Unicamente utilizamos potencias con exponente multiplos de 3, por ello solo se recorre 12 espacios a la izquierda y se escribe la potencia de 10 con exponente 12
 
 **15. Exprese cada número en notación de ingeniería:**
 
 a) 0.000345
 
-Respuesta: 345×〖10〗^(-6)
+Respuesta: 345×10^(-6)
 
+Explicación: Unicamente utilizamos potencias con exponente multiplos de 3, por ello solo se recorre 6 espacios a la derecha y se escribe la potencia de 10 con exponente -6
 
 b) 0.025
 
-Respuesta: 25×〖10〗^(-3)
+Respuesta: 25×10^(-3)
 
+Explicación: Unicamente utilizamos potencias con exponente multiplos de 3, por ello solo se recorre 3 espacios a la derecha y se escribe la potencia de 10 con exponente 3
 
 c) 0.000000000129
 
-Respuesta: 1.29×〖10〗^(-9)
+Respuesta: 1.29×10^(-9)
 
+Explicación: Unicamente utilizamos potencias con exponente multiplos de 3, por ello solo se recorre 9 espacios a la derecha y se escribe la potencia de 10 con exponente 9
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-
-a) (2.5×〖10〗^(-3) )+(4.6×〖10〗^(-3))
+a) (2.5×10^(-3))+(4.6×10^(-3))
 
 (2.5)+(4.6)=7.1 
 
-Respuesta: 7.1×〖10〗^(-3)
+Respuesta: 7.1×10^(-3)
 
+Explicación: Reducimos las potencias a exponentes multiplos de 3 y aplicamos el mismo método para la notación científica
 
-b) (68×〖10〗^6 )+(33×〖10〗^6)
+b) (68×10^6)+(33×10^6)
 
 (68)+(33)=101 
 
-Respuesta: 101×〖10〗^6
+Respuesta: 101×10^6
 
+Explicación: Reducimos las potencias a exponentes multiplos de 3 y aplicamos el mismo método para la notación científica
 
+c) (1.25×10^6)+(250×10^3)
 
-c) (1.25×〖10〗^6 )+(250×〖10〗^3)
-
-(1.25×〖10〗^(-8) )+(0.25×〖10〗^6)
+(1.25×10^(-8))+(0.25×10^6)
 
 (1.25)+(0.25)=1.5 
 
-Respuesta: 1.5×〖10〗^6
+Respuesta: 1.5×10^6
 
+Explicación: Reducimos las potencias a exponentes multiplos de 3 y aplicamos el mismo método para la notación científica
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
+a) 50÷(2.2×10^3)
 
-a) 50÷(2.2×〖10〗^3)
+(50÷2.2)(10^(0-3))
 
-(50÷2.2)(〖10〗^(0-3))
+(22.7)(10^(-3) ) 
 
-(22.7)(〖10〗^(-3) ) 
+Respuesta: 22.7×10^(-3)
 
-Respuesta: 22.7×〖10〗^(-3)
+Explicación: Dividimos los números normalmente y restamos los exponentes de las potencias de 10
 
+b) (5×10^3)÷(25×10^(-6))
 
-b) (5×〖10〗^3 )÷(25×〖10〗^(-6))
+(5÷25)(10^(3-(-6)))
 
-(5÷25)(〖10〗^(3-(-6)))
+(0.2)(10^9) 
 
-(0.2)(〖10〗^9 ) 
+Respuesta: 0.2×10^9
 
-Respuesta: 0.2×〖10〗^9
+Explicación: Dividimos los números normalmente y restamos los exponentes de las potencias de 10
 
+c) (560×10^3)÷(660×10^3)
 
-c) (560×〖10〗^3 )÷(660×〖10〗^3)
+(560÷660)(10^(3-3))
 
-(560÷660)(〖10〗^(3-3))
+(0.848)(10^0 ) 
 
-(0.848)(〖10〗^0 ) 
+Respuesta: 848×10^(-3)
 
-Respuesta: 848×〖10〗^(-3)
-
+Explicación: Dividimos los números normalmente y restamos los exponentes de las potencias de 10
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
+a) 345×10^(-6)
 
-a) 345×〖10〗^(-6)
-
-〖10〗^(-6)=micro (μ) 
+10^(-6)=micro (μ) 
 
 Respuesta: 345 μA
 
+Explicación: 10^(-6) representa al prefijo micro (μ)
 
-b) 25×〖10〗^(-3)
+b) 25×10^(-3)
 
-〖10〗^(-3)=mili (m) 
+10^(-3)=mili (m) 
 
 Respuesta: 25 mA
 
+Explicación: 10^(-3) representa al prefijo mili (m)
 
-c) 1.29×〖10〗^(-9)
+c) 1.29×10^(-9)
 
-〖10〗^(-9)=nano (n) 
+10^(-9)=nano (n) 
 
 Respuesta: 1.29 nA
 
+Explicación: 10^(-9) representa al prefijo nano (n)
+
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
+a) 3×10^(-6)  F
 
-a) 3×〖10〗^(-6)  F
+10^(-6)=micro (μ) 
 
-〖10〗^(-6)=micro (μ) 
+Respuesta: 3 μF
 
-Respuesta: 345 μF
+Explicación: 10^(-6) representa al prefijo micro (μ)
 
-b) 3.3×〖10〗^6  Ω
+b) 3.3×10^6  Ω
 
-〖10〗^6=mega (M) 
+10^6=mega (M) 
 
 Respuesta: 3.3 MΩ
 
-c) 350×〖10〗^(-9)  A
+Explicación: 10^(6) representa al prefijo mega (M)
 
-〖10〗^(-9)=nano (n) 
+c) 350×10^(-9)  A
+
+10^(-9)=nano (n) 
 
 Respuesta: 350 nA
 
-**25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
+Explicación: 10^(-9) representa al prefijo nano (n)
 
+**25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
 
 a) 7.5 pA
 
-〖10〗^(-12)=pico (p) 
+10^(-12)=pico (p) 
 
-Respuesta: 7.5 ×〖10〗^(-12)  A
+Respuesta: 7.5 ×10^(-12)  A
 
+Explicación: 10^(-12) representa al prefijo pico (p)
 
 b) 3.3 GHz
 
-〖10〗^9=giga (G) 
+10^9=giga (G) 
 
-Respuesta: 3.3×〖10〗^9  Hz
+Respuesta: 3.3×10^9  Hz
 
+Explicación: 10^(9) representa al prefijo giga (G)
 
 c) 280 nW
 
-〖10〗^(-9)=nano (n) 
+10^(-9)=nano (n) 
 
-Respuesta: 280×〖10〗^(-9)  W
+Respuesta: 280×10^(-9)  W
 
+Explicación: 10^(-9) representa al prefijo nano (n)
 
 **27. Realice las conversiones indicadas:**
-
 
 a) 5 mA a microamperios
 
 5 mA=5 ×〖10〗^(-3)  A=5000×〖10〗^(-6) A=5000 μA 
 
-
 b) 3200 μW a miliwatts
 
 3200 μW=3200 ×〖10〗^(-6)  W=3.2×〖10〗^(-3) W=3.2 mW 
-
 
 c) 5000 kV a megavolts
 
@@ -364,9 +406,7 @@ d) 10 MW a kilowatts
 
 10 MW=10 ×〖10〗^6  W=10000×〖10〗^3 W=10000 kW 
 
-
 **29. Sume las siguientes cantidades:**
-
 
 a) 50 mA + 680 μA
 
@@ -378,7 +418,6 @@ a) 50 mA + 680 μA
 
 Respuesta: 50.68 mA 
 
-
 b) 120 kΩ+ 2.2 MΩ
 
 (120 ×〖10〗^3  Ω)+(2.2×〖10〗^6  Ω ) 
@@ -388,7 +427,6 @@ b) 120 kΩ+ 2.2 MΩ
 2.32×〖10〗^6 Ω 
 
 Respuesta: 2.32 MΩ 
-
 
 c) 0.02 μF + 3300 pF
 
@@ -400,9 +438,7 @@ c) 0.02 μF + 3300 pF
 
 Respuesta: 0.0233 μF 
 
-
 **EJERCICIOS CAP 2-VOLTAJE, CORRIENTE Y RESISTENCIA**
-
 
 **1 ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
 
