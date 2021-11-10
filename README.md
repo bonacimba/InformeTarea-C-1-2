@@ -440,7 +440,7 @@ Respuesta: 0.0233 μF
 
 **EJERCICIOS CAP 2-VOLTAJE, CORRIENTE Y RESISTENCIA**
 
-**1 ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
+**1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
 
 La fórmula de carga en coulombs es:
 
@@ -457,7 +457,7 @@ Procedemos a reemplazar en la formula de carga de coulombs
 	Q = 4.64*10^ (-18) C
  
  
-**3 ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?**
+**3. ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?**
 
 Usamos la formula de carga en coulombs para electrones:
 
@@ -471,7 +471,7 @@ Realizamos regla de tres y realizamos el respectivo reemplazo con el numero de e
  
 	Q = 8*10^13 C
  
-**5 determine el voltaje en cada uno de los siguientes casos:**
+**5. Determine el voltaje en cada uno de los siguientes casos:**
 
 a)	10J/C
 
@@ -504,7 +504,7 @@ c)	V = 100J/25C
 V = 4 V
 
 
-**7  ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?**
+**7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?**
 
 Sacamos la fórmula de Voltaje
 
@@ -524,7 +524,7 @@ Aplicamos los datos en la fórmula de Voltios
  
 	V = 20 V
  
-**9 Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+**9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 Presentamos los datos que nos ofrece el ejercicio y analizamos:**
 
 I = 2 A
@@ -567,7 +567,7 @@ Finalmente conociendo la Carga Q, realizamos los respectivos despejes en la fór
   
 	V = 33.33 V
  
-**11 Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?**
+**11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?**
 
 Presentamos los datos disponibles:
 
@@ -592,7 +592,7 @@ Ya tenemos todos los datos con respecto a la fórmula de I; procedemos a reempla
 	I = 200 mA
  
  
-**13 ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?**
+**13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?**
 
 Presentamos los datos disponibles:
 
@@ -618,7 +618,7 @@ Realizamos un despeje respectivo en I y reemplazamos los datos:
  
 	Q = 150 mC
  
-**15 Determine la conductancia para cada uno de los siguientes valores de resistencia:**
+**15. Determine la conductancia para cada uno de los siguientes valores de resistencia:**
 
 a)	5 Ω
 
@@ -658,7 +658,7 @@ G = 0.01S
 G = 10mS
 
 
-**17 enliste cuatro fuentes de voltaje comunes**
+**17. Enliste cuatro fuentes de voltaje comunes**
 
 Baterias
 
@@ -669,7 +669,7 @@ Termopares
 Celdas Solares
 
 
-**19 ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?**
+**19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?**
 
 Una fuente electrónica de potencia tiene la propiedad de interferir en escala de corriente alterna CA de un tomacorriente con el fin de transformarla en energía de corriente continua cd y aunque dependiendo del tipo fuente de voltaje también posee a lo sumo trabajar con cualquiera de las ramas de corriente, una fuente electrónica de potencia, aunque considerada tradicionalmente una fuente de voltaje, en realidad también llegan a clasificar a las fuentes corrientes como fuentes de potencia electrónica. 
 
@@ -678,7 +678,7 @@ El principio de las fuentes electrónicas de potencia recae en la medida de la e
 El flujo finalmente constante de la escala, permite la interacción de nodos de distintas fuentes de voltaje con el cual al darle un tratamiento en seria se le da una consideración al aumento de voltaje, mientras que al formar un nodo en paralelo el incremento se da por parte de la corriente. Estos cambios son tomados por un rectificador que ayuda a ala convergencia de CA y CD, cuya neutralidad logra mantenerse constante permitiendo este cambio, gracias a la corriente constante que solo esta fuente ofrece.
 
 
-**21 determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas**
+**21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas**
 
 a)	Rojo, Violeta, Naranja, Oro 
 
@@ -720,7 +720,7 @@ R: 18*(1*10^2) ± 10%
 
 R: 1.8KΩ ± 10%
 
-**23 determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 300 Ω, 2.2 kΩ, 56 kΩ, 100kΩ y 39kΩ**
+**23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 300 Ω, 2.2 kΩ, 56 kΩ, 100kΩ y 39kΩ**
 
 Si sabemos el sistema de numeración por barras de colores y la cantidad máxima de barras, podemos deducir los colores y múltiplos faltantes, equivalentes a 3 primeras de las 4 rayas.
 
